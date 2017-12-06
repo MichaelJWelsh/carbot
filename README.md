@@ -1,7 +1,7 @@
 # CarBot
 
 
-This project was created for my Intro to Electrical Engineering class final. All of the electrical components (excluding the Arduino) are old and were found around the class so there were a lot of problems putting everything together and fixing malfunctioning hardware. Regardless, the project was a success. 
+This project was created for my Intro to Electrical Engineering class final. All of the electrical components used (besides the Arduino) were old and found around the classroom, so there were a lot of problems putting everything together and fixing malfunctioning hardware. Regardless, the project was a success. 
 
 
 CarBot is capable of being driven manually with a simple breadboard controller and supports moving forward/backwards and rotating left/right. It can also use both its ultrasonic sensors to detect objects and print out to the LCD how far away they are. 
